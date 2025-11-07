@@ -30,12 +30,7 @@
     </dependency>
     
     <!-- ICI NOUS DEFINIRONS LA DEPENDANCE VERS LE MODULE LOOKUP -->
-    <dependency>
-      <groupId>org.emp.gl</groupId>
-      <artifactId>timer-service</artifactId>
-      <version>0.0.1</version>
-      <type>jar</type>
-    </dependency>
+   
     <dependency>
       <groupId>org.emp.gl</groupId>
       <artifactId>time-service-impl</artifactId>
